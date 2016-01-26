@@ -1,0 +1,26 @@
+{
+  "name": "et-line",
+  "version": "1.0.0",
+  "description": "100 Free Line-Style Icons",
+  "main": "./et-line-font/style.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graingert/et-line.git"
+  },
+  "keywords": [
+    "et-line",
+    "font",
+    "line",
+    "font",
+    "Divi"
+  ],
+  "author": "kennysing",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/graingert/et-line/issues"
+  },
+  "homepage": "https://github.com/graingert/et-line#readme"
+}
